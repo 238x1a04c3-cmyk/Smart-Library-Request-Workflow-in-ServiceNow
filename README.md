@@ -181,6 +181,13 @@ Configuration:
 
 ---
 
+| Name | Role |
+|------|------|
+| Narendra Kumar Padarthi | Team Lead |
+| Ravuri Venkata Rahul | Member |
+| Shaik Khaja Mohiddin | Member |
+| Shaik Khadar Vali | Member |
+| Gorantla Naidu | Member |
 ## Key Features
 
 * Role-based access control
